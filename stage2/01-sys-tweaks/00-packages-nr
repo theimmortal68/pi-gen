@@ -1,3 +1,27 @@
-cifs-utils
-rpicam-apps-lite
-mkvtoolnix
+rpi-update
+raspi-utils
+
+avahi-daemon
+dosfstools
+
+policykit-1
+
+
+ssh less fbset sudo psmisc strace ed ncdu
+console-setup keyboard-configuration debconf-utils parted
+build-essential bash-completion gdb pkg-config
+
+ca-certificates curl
+fake-hwclock nfs-common usbutils
+
+raspberrypi-sys-mods
+
+
+libpam-chksshpwd
+ssh-import-id
+ethtool
+pciutils
+
+udisks2
+pigz
+file
